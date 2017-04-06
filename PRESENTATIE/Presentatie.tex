@@ -1,0 +1,130 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usefonttheme{structurebold}
+\setbeamerfont{title}{family=\rm}
+\usetheme{Rochester}
+\useoutertheme{smoothbars}
+
+\setbeamercolor{alerted text}{fg=orange}
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{block body alerted}{bg=normal text.bg!90!black}
+\setbeamercolor{block body}{bg=normal text.bg!90!black}
+\setbeamercolor{block body example}{bg=normal text.bg!90!black}
+\setbeamercolor{block title alerted}{use={normal text,alerted text},fg=alerted text.fg!75!normal text.fg,bg=normal text.bg!75!black}
+\setbeamercolor{block title}{bg=blue}
+\setbeamercolor{block title example}{use={normal text,example text},fg=example text.fg!75!normal text.fg,bg=normal text.bg!75!black}
+\setbeamercolor{fine separation line}{}
+\setbeamercolor{frametitle}{fg=brown}
+\setbeamercolor{item projected}{fg=black}
+\setbeamercolor{normal text}{bg=black,fg=yellow}
+\setbeamercolor{palette sidebar primary}{use=normal text,fg=normal text.fg}
+\setbeamercolor{palette sidebar quaternary}{use=structure,fg=structure.fg}
+\setbeamercolor{palette sidebar secondary}{use=structure,fg=structure.fg}
+\setbeamercolor{palette sidebar tertiary}{use=normal text,fg=normal text.fg}
+\setbeamercolor{section in sidebar}{fg=brown}
+\setbeamercolor{section in sidebar shaded}{fg=grey}
+\setbeamercolor{separation line}{}
+\setbeamercolor{sidebar}{bg=red}
+\setbeamercolor{sidebar}{parent=palette primary}
+\setbeamercolor{structure}{bg=black, fg=green}
+\setbeamercolor{subsection in sidebar}{fg=brown}
+\setbeamercolor{subsection in sidebar shaded}{fg=grey}
+\setbeamercolor{title}{fg=brown}
+\setbeamercolor{titlelike}{fg=brown}
+
+
+\title[Something]{Hoe maak je een presentatie met latex}
+\subtitle{En hoe draag je je schaamte met trots?}
+\institute{Hogeschool Rotterdam}
+\author{Quinten Stekelenburg}
+\date{\today}
+
+\AtBeginSection
+{
+  \begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\frame
+{
+	\tableofcontents
+}
+
+\section[Introductie]{Introductie}
+
+
+\frame
+{
+Op de vorige slides, zag je een inhoudsopgave, en een herinnering aan waar we nu zijn in de presentatie. Verder was er een hele mooie titelpagina, helemaal mooi gemaakt door latex. Aan het begin van elke section word de inhoudsopgave opnieuw weergeven, zodat je niet vergeet waar je bent. En je kan door het thema ook op de navigation bar zien in welke section je bent.
+\transdissolve
+}
+
+\subsection[WOA SUBSECTIE WAT]{WOA SUBSECTIE WAT}
+
+\frame
+{
+asfsdfsa f asdfas asfasf sdf ssdf sdfasdf dasf sa
+}
+
+\subsubsection[WOA EEN SUBSUBSECTIE]{WAT GEBEURT ERRR}
+
+\frame
+{
+asdfasdfasdfsaf asdf asdfasdfsd fsddfas fsaf as
+}
+
+\section[First Part]{First Part}
+
+\frame
+{
+	\frametitle{Zo maak je een title}
+	Lorem ipsum dingen hier.
+}
+
+\section[Second part]{Second part}
+
+\frame
+{
+\frametitle{Dit is de 2e slide}
+\framesubtitle{En dit is een subtitle}
+Dit is de 2e slide.
+}
+
+\frame
+{
+\frametitle{Afwezige tekst}
+Wat is het antwoord op 4+4?
+\pause
+
+HET IS NIET 9
+\pause
+
+MAAR HET IS NATUURLIJK 8
+}
+
+\frame{{Voorbeeld van kolommen en boxes}
+    \begin{columns}[c] 
+		\column{.3\textwidth} 
+		\begin{block}{This is a Block}
+      MAGISCHE KLEURTJES WAT
+    \end{block}
+    \column{.3\textwidth}
+		\begin{alertblock}{This is a alertBlock}
+		EN DIT STAAT HIER SICK!
+    \end{alertblock}
+		\column{.3\textwidth}
+		\begin{exampleblock}{This is a exampleblock}
+		BRUUUUUUUUUUUUUUTTT
+    \end{exampleblock}
+		\end{columns}
+}
+
+
+\end{document}

@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introductie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{WOA SUBSECTIE WAT}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{WAT GEBEURT ERRR}{6}{0}{1}
+\beamer@sectionintoc {2}{First Part}{7}{0}{2}
+\beamer@sectionintoc {3}{Second part}{9}{0}{3}

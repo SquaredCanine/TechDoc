@@ -1,0 +1,160 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+CBS%
+}{%
+CBS%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+CBSPrognose2014}
+\APACinsertmetastar {%
+CBSPrognose2014}%
+\begin{APACrefauthors}%
+CBS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{Prognose bevolking kerncijfers, 2014-2060}.} {{Prognose
+  bevolking kerncijfers, 2014-2060}.}
+\newblock
+\begin{APACrefURL}
+  \url{http://statline.cbs.nl/statweb/publication/?vw=t{\&}dm=slnl{\&}pa=82683ned}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+CBS%
+}{%
+CBS%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+CBSBevolking}
+\APACinsertmetastar {%
+CBSBevolking}%
+\begin{APACrefauthors}%
+CBS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {{Bevolking; geslacht, leeftijd en burgerlijke staat, 1
+  januari}.} {{Bevolking; geslacht, leeftijd en burgerlijke staat, 1 januari}.}
+\newblock
+\begin{APACrefURL}
+  \url{http://statline.cbs.nl/Statweb/publication/?DM=SLNL{\&}PA=7461BEV}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+CBS%
+}{%
+CBS%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+CBS2016}
+\APACinsertmetastar {%
+CBS2016}%
+\begin{APACrefauthors}%
+CBS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {{Werknemers in zorg ervaren hoge werkdruk}.} {{Werknemers in
+  zorg ervaren hoge werkdruk}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cbs.nl/nl-nl/nieuws/2016/46/werknemers-in-zorg-ervaren-hoge-werkdruk}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dragani%
+}{%
+Dragani%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+dragani2014}
+\APACinsertmetastar {%
+dragani2014}%
+\begin{APACrefauthors}%
+Dragani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{Smartphone Could Hold the Key to Your Room}.} {{Smartphone
+  Could Hold the Key to Your Room}.}
+\newblock
+\begin{APACrefURL} [{22 March
+  2017}]\url{http://www.technewsworld.com/story/79886.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Florencio%
+, Herley%
+\BCBL {}\ \BBA {} Coskun%
+}{%
+Florencio%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Florencio2007}
+\APACinsertmetastar {%
+Florencio2007}%
+\begin{APACrefauthors}%
+Florencio, D.%
+, Herley, C.%
+\BCBL {}\ \BBA {} Coskun, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+\APACrefbtitle {{Do Strong Web Passwords Accomplish Anything?}} {{Do Strong Web
+  Passwords Accomplish Anything?}}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.microsoft.com/en-us/research/publication/do-strong-web-passwords-accomplish-anything/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Michels%
+}{%
+Michels%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Michels2009}
+\APACinsertmetastar {%
+Michels2009}%
+\begin{APACrefauthors}%
+Michels, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\unskip\
+\newblock
+\APACrefbtitle {{Kan zorgtechnologie in de vorm van het DRP-systeem leiden tot
+  arbeidsbesparing?}} {{Kan zorgtechnologie in de vorm van het DRP-systeem
+  leiden tot arbeidsbesparing?}}\ \APACtypeAddressSchool {\BPhD}{}{Universiteit
+  Twente}.
+\unskip\
+\newblock
+\begin{APACrefURL}
+  \url{http://essay.utwente.nl/60613/1/MA{\_}thesis{\_}B{\_}Michels.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
